@@ -4,7 +4,7 @@ Usada para o cadastro de novos usuários no formulário.
 
 Painel:
 Este dashboard apresenta um resumo claro dos dados dos alunos. Os cards mostram informações rápidas, como total de alunos, média de idade, bairro com mais cadastros e tipos de responsáveis. Os gráficos exibem a distribuição de alunos por curso e por bairro, facilitando a visualização. Também há listagens como alunos mais velhos, mais novos, CEPs com mais registros e responsáveis com mais de um aluno, oferecendo uma visão completa do perfil dos cadastrados.
-
+<img width="1903" height="926" alt="image" src="https://github.com/user-attachments/assets/1fb9b0ce-5dfe-49f9-8518-ec35cfcc7db4" />
 <img width="1339" height="649" alt="image" src="https://github.com/user-attachments/assets/6eeea409-d5a7-465e-9798-2987231afa61" />
 <img width="1908" height="938" alt="image" src="https://github.com/user-attachments/assets/4ea39803-b442-458d-89ed-12c38f65eacd" />
 
