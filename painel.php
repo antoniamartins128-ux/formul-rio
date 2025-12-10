@@ -127,6 +127,7 @@ body { background-color: var(--cor-fundo-suave); }
       <ul class="navbar-nav me-auto">
         <li class="nav-item"><a class="nav-link active" href="painel.php"> Home</a></li>
         <li class="nav-item"><a class="nav-link" href="alunos.php"> Alunos</a></li>
+        <li class="nav-item"><a class="nav-link" href="cadastro2.php">Cadastro de Alunos</a></li>
       </ul>
 
       <ul class="navbar-nav">
